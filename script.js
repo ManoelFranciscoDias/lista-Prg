@@ -2,7 +2,7 @@ const input = document.querySelector('input');
 		const btn = document.querySelector('.addTask > button');
 
 
-        //BOTÃO QUE LEVA A TAREFA ATÉ A LISTA
+
 
 		btn.addEventListener('click', addList);
 		input.addEventListener('keyup', (e)=>{
